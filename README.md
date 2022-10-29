@@ -8,5 +8,5 @@ Para esse cenário, um alert será enviada ao usuário, conforme imagem abaixo:
 ![image](https://user-images.githubusercontent.com/86863914/198838297-9efff69e-d453-4160-b8ef-414322abfbc4.png)
 
 
-Para o cenário no qual o CEP possui 8 dígitos ou mais, porém inexistente, realizei a verificação de que se a API retornar o status erro = true, a reposta será demonstrada no próprio HTML, conforme exemplo abaixo:
+Para o cenário no qual o CEP possui 8 dígitos ou mais, porém inexistente, realizei a verificação de que se a API retornar o status erro = true, a resposta será demonstrada no próprio HTML, conforme exemplo abaixo:
 ![image](https://user-images.githubusercontent.com/86863914/198838417-bb05552f-2a47-402e-b61d-3b816e6a2e3d.png)
