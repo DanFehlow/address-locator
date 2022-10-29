@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: linear-gradient(#121212, #212b46);
+  font-family: sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+#buttonSearch {
+  height: 21px;
+  width: 80px;
+}
+
+.title {
+  font-size: 85px;
+  color: #fff;
+}
+
+#local-place {
+  color: white;
+  margin-top: 20px;
+}
